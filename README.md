@@ -1,1 +1,1 @@
-# Codsoft_java-programming_intenship
+# Codsoft_java-programming_internship
